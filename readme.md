@@ -1,6 +1,6 @@
 # Grindwick
 
-Grindwick is a 2D top-down online action RPG focused on character progression, exploration and grinding.
+Grindwick is a 2D top-down online action RPG focused on grinding.
 
 If you want to check out my game, visit: [itch.io](https://patryko92.itch.io/grindwick)
 
